@@ -1,0 +1,10 @@
+test file via vim
+adding from insert vim
+
+another test 
+
+git add
+
+git commit - m
+
+git push
